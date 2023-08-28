@@ -1,2 +1,2 @@
 <?php
-echo "Hello from GIT22333333!";
+echo "Hello from ПОменял!";
