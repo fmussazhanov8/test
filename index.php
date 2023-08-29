@@ -1,2 +1,2 @@
 <?php
-echo "Hello from ПОменял!";
+//echo "Hello from ПОменял!";
